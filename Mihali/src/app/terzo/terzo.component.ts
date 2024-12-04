@@ -9,5 +9,5 @@ import { Component } from '@angular/core';
   styleUrl: './terzo.component.css'
 })
 export class TerzoComponent {
-
+  name = 'terzo';
 }

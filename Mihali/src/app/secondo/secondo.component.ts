@@ -10,5 +10,6 @@ import { TerzoComponent } from '../terzo/terzo.component';
   styleUrl: './secondo.component.css'
 })
 export class SecondoComponent {
+  name = 'secondo';
 
 }

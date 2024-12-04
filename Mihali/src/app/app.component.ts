@@ -13,5 +13,6 @@ import { TerzoComponent } from './terzo/terzo.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'app';
+  name = 'app';
+
 }

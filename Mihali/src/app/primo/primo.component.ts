@@ -11,5 +11,6 @@ import { Component } from '@angular/core';
   styleUrl: './primo.component.css'
 })
 export class PrimoComponent {
+  name = 'primo';
 
 }
